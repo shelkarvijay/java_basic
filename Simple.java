@@ -13,6 +13,7 @@
     		System.out.println("I'm working for digi360i");
     	}
     }
+<<<<<<< HEAD
     //inheritance 
 
     class First extends Other{
@@ -20,3 +21,6 @@
     		System.out.println("I'm working for digi360i");
     	}
     }
+=======
+    class  B{}
+>>>>>>> master
