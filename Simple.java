@@ -10,3 +10,4 @@
     		System.out.println("I'm working for digi360i");
     	}
     }
+    class  B{}
