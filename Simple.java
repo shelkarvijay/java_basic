@@ -14,6 +14,7 @@
     	}
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
     //inheritance 
 
     class First extends Other{
@@ -24,3 +25,7 @@
 =======
     class  B{}
 >>>>>>> master
+=======
+    class  B{}
+    class C{}
+>>>>>>> 8ad33f1b973b566aa2dade10b78bfc17a31e9fdd
