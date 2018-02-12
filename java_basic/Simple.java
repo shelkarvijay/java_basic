@@ -11,4 +11,3 @@
     	}
     }
     class  B{}
-    class C{}
